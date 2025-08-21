@@ -29,3 +29,4 @@ for i in range(len(words)):
     for j in range(i + 1, len(words)):
         sim = cosine_similarity(np.array(vectors[i]), np.array(vectors[j]))
         print(f"{words[i]} vs {words[j]}: {sim:.3f}")
+

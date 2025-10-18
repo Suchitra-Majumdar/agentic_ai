@@ -2,3 +2,20 @@
 .env
 AgenticAIWorkspace/venv/
 
+# Python virtual environments
+venv/
+AgenticAIWorkspace/venv/
+
+# Cache & build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/

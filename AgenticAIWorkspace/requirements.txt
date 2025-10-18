@@ -13,6 +13,7 @@ pymupdf
 wikipedia
 arxiv
 langgraph
+langchain-anthropic
 
 
 

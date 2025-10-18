@@ -1,0 +1,22 @@
+{
+	"servers": {
+		"my-mcp-server-310f0dce": {
+			"type": "stdio",
+			"command": "uvx",
+			"args": [
+				"mcp",
+				"server",
+				"time"
+			]
+		},
+		"my-mcp-server-a71a60e1": {
+			"type": "stdio",
+			"command": "mcp",
+			"args": [
+				"serverp",
+				"time"
+			]
+		}
+	},
+	"inputs": []
+}
